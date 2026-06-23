@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/EC-Signal-Tx-19_98-kHz.txt
+bash.exe.stackdump
+CLAUDE.md
